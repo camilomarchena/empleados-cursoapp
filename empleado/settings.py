@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'empleado.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'dbohpkkp3o0mio',
         'USER': 'xspiyyehkklogz',
         'PASSWORD': '8505bebf6705dc72dc5fc100ca826c24a86ea2047d874161b1683835266fa22c',

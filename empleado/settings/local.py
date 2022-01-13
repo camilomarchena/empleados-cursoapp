@@ -2,24 +2,14 @@ from .base import *
 import os
 import django_heroku
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
 
+DEBUG = True
 ALLOWED_HOSTS = ['empleado.herokuapp.com']
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-#         'NAME': 'dbempleado',
-#         'USER': 'camilo',
-#         'PASSWORD': '123',
-#         'HOST': 'localhost',
-#         'PORT': '5433',
-#     }
-# }
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'dbohpkkp3o0mio',
         'USER': 'xspiyyehkklogz',
         'PASSWORD': '8505bebf6705dc72dc5fc100ca826c24a86ea2047d874161b1683835266fa22c',
