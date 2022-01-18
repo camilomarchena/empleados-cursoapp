@@ -12,3 +12,8 @@ Esta página web cuenta con un *CRUD* de una tabla de empleados de una posible e
 - psycopg2
 - Pillow 
 - Unipath
+
+
+### Interfaz Grafica
+
+[![Diseño](Diseño "Diseño")](https://github.com/CAMILOMARCHENA/empleados-cursoapp/blob/master/static/img/Captura.PNG "Diseño")
