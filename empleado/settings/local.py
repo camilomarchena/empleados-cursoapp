@@ -24,7 +24,7 @@ DATABASES = {
         'USER': 'xspiyyehkklogz',
         'PASSWORD': '8505bebf6705dc72dc5fc100ca826c24a86ea2047d874161b1683835266fa22c',
         'HOST': 'ec2-54-198-213-75.compute-1.amazonaws.com',
-        'PORT': '5433',
+        'PORT': '5432',
     }
 }
 
